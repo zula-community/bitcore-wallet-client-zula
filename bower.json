@@ -1,0 +1,26 @@
+{
+  "name": "bitcore-wallet-client-zula",
+  "main": "index.js",
+  "version": "2.1.1",
+  "homepage": "https://github.com/zuladev/bitcore-wallet-client-zula",
+  "authors": ["BitPay Inc"],
+  "description": "Client for bitcore-wallet-service-zula",
+  "keywords": [
+    "zula",
+    "copay-zula",
+    "multisig",
+    "wallet",
+    "client",
+    "bitcore-zula"
+  ],
+  "ignore": [
+    "**/.*",
+    "lib",
+    "node_modules",
+    "Gruntfile.js",
+    "Makefile",
+    "index.js",
+    "test",
+    "Makefile"
+  ]
+}
