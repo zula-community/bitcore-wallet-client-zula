@@ -26,10 +26,10 @@
   "dependencies": {
     "async": "^0.9.0",
     "bip38": "^1.3.0",
-    "bitcore-lib-zula": "github:zulacoin/bitcore-lib-zula",
+    "bitcore-lib-zula": "github:zuladev/bitcore-lib-zula",
     "bitcore-lib-cash": "^0.16.1",
-    "bitcore-mnemonic-zula": "github:zulacoin/bitcore-mnemonic-zula",
-    "bitcore-payment-protocol-zula": "github:zulacoin/bitcore-payment-protocol-zula",
+    "bitcore-mnemonic-zula": "github:zuladev/bitcore-mnemonic-zula",
+    "bitcore-payment-protocol-zula": "github:zuladev/bitcore-payment-protocol-zula",
     "json-stable-stringify": "^1.0.0",
     "lodash": "^4.17.4",
     "preconditions": "^1.0.8",
@@ -37,7 +37,7 @@
     "superagent": "^3.4.1"
   },
   "devDependencies": {
-    "bitcore-wallet-service-zula": "github:zulacoin/bitcore-wallet-service-zula",
+    "bitcore-wallet-service-zula": "github:zuladev/bitcore-wallet-service-zula",
     "browserify": "^13.1.0",
     "chai": "^1.9.1",
     "coveralls": "^2.11.2",

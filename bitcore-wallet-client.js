@@ -34415,7 +34415,7 @@ module.exports={
         "spec": ">=1.2.0 <2.0.0",
         "type": "range"
       },
-      "F:\\_2017\\Github\\namespace\\zulacoin\\bitcore-wallet-client-zula\\node_modules\\bip38"
+      "F:\\_2017\\Github\\namespace\\zuladev\\bitcore-wallet-client-zula\\node_modules\\bip38"
     ]
   ],
   "_from": "bigi@>=1.2.0 <2.0.0",
@@ -34450,7 +34450,7 @@ module.exports={
   "_shasum": "9c665a95f88b8b08fc05cfd731f561859d725825",
   "_shrinkwrap": null,
   "_spec": "bigi@^1.2.0",
-  "_where": "F:\\_2017\\Github\\namespace\\zulacoin\\bitcore-wallet-client-zula\\node_modules\\bip38",
+  "_where": "F:\\_2017\\Github\\namespace\\zuladev\\bitcore-wallet-client-zula\\node_modules\\bip38",
   "bugs": {
     "url": "https://github.com/cryptocoinjs/bigi/issues"
   },
@@ -52882,7 +52882,7 @@ module.exports={
         "spec": "https://registry.npmjs.org/elliptic/-/elliptic-3.0.3.tgz",
         "type": "remote"
       },
-      "F:\\_2017\\Github\\namespace\\zulacoin\\bitcore-wallet-client-zula\\node_modules\\bitcore-lib-zula"
+      "F:\\_2017\\Github\\namespace\\zuladev\\bitcore-wallet-client-zula\\node_modules\\bitcore-lib-zula"
     ]
   ],
   "_from": "https://registry.npmjs.org/elliptic/-/elliptic-3.0.3.tgz",
@@ -52908,7 +52908,7 @@ module.exports={
   "_shasum": "865c9b420bfbe55006b9f969f97a0d2c44966595",
   "_shrinkwrap": null,
   "_spec": "elliptic@https://registry.npmjs.org/elliptic/-/elliptic-3.0.3.tgz",
-  "_where": "F:\\_2017\\Github\\namespace\\zulacoin\\bitcore-wallet-client-zula\\node_modules\\bitcore-lib-zula",
+  "_where": "F:\\_2017\\Github\\namespace\\zuladev\\bitcore-wallet-client-zula\\node_modules\\bitcore-lib-zula",
   "author": {
     "name": "Fedor Indutny",
     "email": "fedor@indutny.com"
@@ -72462,7 +72462,7 @@ module.exports={
         "spec": ">=0.14.3 <0.15.0",
         "type": "range"
       },
-      "F:\\_2017\\Github\\namespace\\zulacoin\\bitcore-wallet-client-zula"
+      "F:\\_2017\\Github\\namespace\\zuladev\\bitcore-wallet-client-zula"
     ]
   ],
   "_from": "bitcore-lib-zula@>=0.14.3 <0.15.0",
@@ -72556,7 +72556,7 @@ module.exports={
     }
   },
   "_spec": "bitcore-lib-zula@^0.14.3",
-  "_where": "F:\\_2017\\Github\\namespace\\zulacoin\\bitcore-wallet-client-zula",
+  "_where": "F:\\_2017\\Github\\namespace\\zuladev\\bitcore-wallet-client-zula",
   "author": {
     "name": "BitPay",
     "email": "dev@bitpay.com"
@@ -72637,7 +72637,7 @@ module.exports={
   },
   "description": "A pure and powerful JavaScript Zula library.",
   "devDependencies": {
-    "bitcore-build-zula": "github:zulacoin/bitcore-build-zula",
+    "bitcore-build-zula": "github:zuladev/bitcore-build-zula",
     "brfs": "^1.2.0",
     "browserify": "latest",
     "chai": "^1.10.0",
@@ -99483,7 +99483,7 @@ module.exports={
     "bip38": "^1.3.0",
     "bitcore-lib-zula": "^0.14.3",
     "bitcore-mnemonic-zula": "^1.2.3",
-    "bitcore-payment-protocol-zula": "github:zulacoin/bitcore-payment-protocol-zula#master_v1.2.2",
+    "bitcore-payment-protocol-zula": "github:zuladev/bitcore-payment-protocol-zula#master_v1.2.2",
     "json-stable-stringify": "^1.0.0",
     "lodash": "^3.3.1",
     "preconditions": "^1.0.8",

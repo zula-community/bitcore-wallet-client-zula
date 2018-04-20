@@ -785,7 +785,7 @@ Returns exchange rate for the specified currency & timestamp.
 
 **opts.ts**: `Date`, A timestamp to base the rate on (default Date.now()).
 
-**opts.provider**: `String`, A provider of exchange rates (default 'zulacoin').
+**opts.provider**: `String`, A provider of exchange rates (default 'zuladev').
 
 **Returns**: `Object`, rates - The exchange rate.
 
